@@ -6,6 +6,8 @@
   Free, online web security training from the creators of Burp Suite.
 - [Hacker101 CTF](https://ctf.hacker101.com/). Capture The Flag (CTF)
   run by HackerOne.
+- [YesWeHack - Dojo](https://dojo-yeswehack.com/). Monthly CTF-type challenges
+  for web applications.
 - [Overthewire Wargames](https://overthewire.org/wargames/). Variety of
   wargames that teach hacking.
 - [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally
