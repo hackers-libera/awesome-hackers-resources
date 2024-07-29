@@ -1,5 +1,10 @@
 # #hackers resources
 
+## Culture and mindset
+
+- [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html). 
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/hacker-howto.html).
+
 ## Hands-on learning
 
 - [Portswigger Web Security Academy](https://portswigger.net/web-security).
