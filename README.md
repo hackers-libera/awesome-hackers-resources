@@ -3,7 +3,7 @@
 ## Culture and mindset
 
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html). 
-- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/hacker-howto.html).
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html).
 
 ## Hands-on learning
 
