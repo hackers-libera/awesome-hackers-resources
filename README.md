@@ -15,3 +15,9 @@
   wargames that teach hacking.
 - [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally
   insecure web application created by OWASP.
+
+## Media / content creators
+
+- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw).
+  Educational cybersecurity content creator with a focus on bug bounty
+  and web application security.
