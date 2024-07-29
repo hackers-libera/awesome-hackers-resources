@@ -1,5 +1,8 @@
 # #hackers resources
 
+A list of hacking resources wouldn't be complete without a link to
+[awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking).
+
 ## Hands-on learning
 
 - [Portswigger Web Security Academy](https://portswigger.net/web-security).
