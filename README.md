@@ -13,3 +13,5 @@
   run by HackerOne.
 - [Overthewire Wargames](https://overthewire.org/wargames/). Variety of
   wargames that teach hacking.
+- [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally
+  insecure web application created by OWASP.
