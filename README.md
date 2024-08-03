@@ -26,6 +26,8 @@ badges, and a community to help you master the art of hacking.
 practicing penetration testing skills on exploitable, real-world 
 vectors. With PG Play, learners will receive three daily hours of free, dedicated access to the VulnHub community generated Linux machines.
 - [Altered Security](https://www.alteredsecurity.com/trainings) Windows, active directory and azure ad focused hands-on offensive security trainings.
+- [Pentester Lab](https://pentesterlab.com/exercises) Web Hacking and Security review focused training courses and exercises
+  
 
   
 ## Training (not hands-on)
