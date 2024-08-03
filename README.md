@@ -48,7 +48,8 @@ Windows security.
 ### Linux
 
 ### Web
-
+ - [Checkpoint's webhacking training](https://www.checkpoint.com/resources/items/hacking-points-advanced-web-hacking-course?w=c778b) Checkpoint has good webhacking related training offerings
+ - 
 ### MacOs 
 
 ## Media / content creators
