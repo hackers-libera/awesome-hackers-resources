@@ -27,7 +27,8 @@ practicing penetration testing skills on exploitable, real-world
 vectors. With PG Play, learners will receive three daily hours of free, dedicated access to the VulnHub community generated Linux machines.
 - [Altered Security](https://www.alteredsecurity.com/trainings) Windows, active directory and azure ad focused hands-on offensive security trainings.
 - [Pentester Lab](https://pentesterlab.com/exercises) Web Hacking and Security review focused training courses and exercises
-  
+- [Offensive Security](https://www.offsec.com/courses-and-certifications/) Offers realistic certifications and training, mostly focused around offensive security techniques and skill development
+
 
   
 ## Training (not hands-on)
@@ -36,7 +37,6 @@ vectors. With PG Play, learners will receive three daily hours of free, dedicate
 - [Opensecurity training](https://opensecuritytraining.info/Welcome.html) OpenSecurityTraining.info is dedicated to sharing training material for 
 computer security classes, on any topic, that are at least one day long
 - [Opensecurity training 2](https://p.ost2.fyi/courses) A relaunch of Open Security training with updated materials
-- [Offensive Security](https://www.offsec.com/courses-and-certifications/) Offers realistic certifications and training, mostly focused around offensive security techniques and skill development
 
 ### Windows
 - [Code machine](https://www.codemachine.com/training.html) CodeMachine offers the most
