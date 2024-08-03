@@ -37,6 +37,7 @@ vectors. With PG Play, learners will receive three daily hours of free, dedicate
 - [Opensecurity training](https://opensecuritytraining.info/Welcome.html) OpenSecurityTraining.info is dedicated to sharing training material for 
 computer security classes, on any topic, that are at least one day long
 - [Opensecurity training 2](https://p.ost2.fyi/courses) A relaunch of Open Security training with updated materials
+- [OALabs](https://www.openanalysis.net/) Open Analysis Labs, lots of good malware reversing videos and training
 
 ### Windows
 - [Code machine](https://www.codemachine.com/training.html) CodeMachine offers the most
