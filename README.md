@@ -49,9 +49,13 @@ Windows security.
 
 ### Web
  - [Checkpoint's webhacking training](https://www.checkpoint.com/resources/items/hacking-points-advanced-web-hacking-course?w=c778b) Checkpoint has good webhacking related training offerings
- - 
+ - [Websites vulnerable to SSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI/tree/master) This project has very simple websites to learn how to exploit Server Side Template Injections(SSTI).
+
 ### MacOs 
 
+### Other
+- [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) Fuzz testing course
+  
 ## Media / content creators
 
 - [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw).
