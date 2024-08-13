@@ -55,6 +55,7 @@ Windows security.
 
 ### Other
 - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) Fuzz testing course
+- [VX Underground](https://github.com/vxunderground) Papers, source and resources on malwarez
   
 ## Media / content creators
 
