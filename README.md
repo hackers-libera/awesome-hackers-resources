@@ -27,7 +27,8 @@ practicing penetration testing skills on exploitable, real-world
 vectors. With PG Play, learners will receive three daily hours of free, dedicated access to the VulnHub community generated Linux machines.
 - [Altered Security](https://www.alteredsecurity.com/trainings) Windows, active directory and azure ad focused hands-on offensive security trainings.
 - [Pentester Lab](https://pentesterlab.com/exercises) Web Hacking and Security review focused training courses and exercises
-- [Offensive Security](https://www.offsec.com/courses-and-certifications/) Offers realistic certifications and training, mostly focused around offensive security techniques and skill development
+- [Offensive Security](https://www.offsec.com/courses-and-certifications/) Offers realistic certifications and training, mostly focused around offensive security techniques and skill development.
+- [Ret2 Wargames](https://wargames.ret2.systems/) Lab based software exploitation training.
 
 
   
