@@ -39,6 +39,7 @@ vectors. With PG Play, learners will receive three daily hours of free, dedicate
 computer security classes, on any topic, that are at least one day long
 - [Opensecurity training 2](https://p.ost2.fyi/courses) A relaunch of Open Security training with updated materials
 - [OALabs](https://www.openanalysis.net/) Open Analysis Labs, lots of good malware reversing videos and training
+- [Corelan.be](https://www.corelan.be/index.php/articles/) Corelan has really great articles and paid training bootcamps. They're well regarded in their exploit writing tutorial articles.
 
 ### Windows
 - [Code machine](https://www.codemachine.com/training.html) CodeMachine offers the most
