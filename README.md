@@ -29,6 +29,7 @@ vectors. With PG Play, learners will receive three daily hours of free, dedicate
 - [Pentester Lab](https://pentesterlab.com/exercises) Web Hacking and Security review focused training courses and exercises
 - [Offensive Security](https://www.offsec.com/courses-and-certifications/) Offers realistic certifications and training, mostly focused around offensive security techniques and skill development.
 - [Ret2 Wargames](https://wargames.ret2.systems/) Lab based software exploitation training.
+- [Phrack Magazine](https://phrack.org/) Phrack is an e-zine written by and for hackers, first published November 17, 1985.
 
 
   
