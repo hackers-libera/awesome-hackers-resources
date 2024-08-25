@@ -69,3 +69,8 @@ Windows security.
 
 - [Windows Internals](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/) 
 Windows Internals: System architecture, processes, threads, memory management, and more
+
+## Magazines
+
+- [Phrack Magazine](https://phrack.org/) Phrack is an e-zine written by and for hackers, first published November 17, 1985.
+  
