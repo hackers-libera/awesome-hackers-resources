@@ -48,12 +48,10 @@ A list of hacking resources wouldn't be complete without a link to
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
 - [SecurityTube](http://www.securitytube.net/). A platform for security-related video content and tutorials.
-- [Infosec](https://www.infosec.com/). Provides training and resources for various aspects of cybersecurity.
 - [HackTheBox Labs](https://www.hackthebox.com/hacker/hacking-labs). A collection of labs and challenges for practicing penetration testing.
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [PentesterLab Pro](https://pentesterlab.com/pro). Advanced web hacking and security training.
 - [Practical Pentest Labs](https://practicalpentestlabs.com/). Provides hands-on penetration testing labs and challenges.
-- [ExploitDB](https://www.exploit-db.com/). Archive of public exploits and corresponding vulnerable software.
 - [Security Onion](https://securityonion.net/). Free and open-source Linux distribution for intrusion detection and network security monitoring.
 
 ## Training (not hands-on)
