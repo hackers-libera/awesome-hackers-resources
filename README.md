@@ -31,7 +31,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [OWASP](https://owasp.org/). A virtual machine with various vulnerable applications for practice.
 - [Hacking Lab](https://www.hacking-lab.com/). Offers a range of online labs and challenges for cybersecurity practice.
 - [SecTools.org](https://sectools.org/). Provides a comprehensive list of security tools used in penetration testing.
-- [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
+- [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities. The [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) is worth checking out.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [Security Onion](https://securityonion.net/). Free and open-source Linux distribution for intrusion detection and network security monitoring.
