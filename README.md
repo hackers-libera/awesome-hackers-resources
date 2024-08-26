@@ -72,7 +72,6 @@ A list of hacking resources wouldn't be complete without a link to
   comprehensive training in the industry for all things related to
   Windows security.
 - [Maldev Academy](https://maldevacademy.com/). Windows-focused malware development courses.
-- [Windows Security Training](https://www.windowssecuritytraining.com/). Comprehensive training on Windows security practices.
 
 ### Linux
 - [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). A tool to suggest exploits based on Linux kernel versions.
