@@ -47,7 +47,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [Cybersecurity Lab](https://www.cybersecuritylab.org/). Interactive labs and challenges for learning cybersecurity.
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
-- [Hack The Box Academy](https://academy.hackthebox.com/). Structured learning paths with hands-on practice.
 - [HackerHouse](https://hacker.house/). Provides security training and resources for various skill levels.
 - [HackerOne](https://www.hackerone.com/). Offers a platform for bug bounty programs and training resources.
 - [Cybersecurity Awareness Hub](https://www.cybersecurityawarenesshub.com/). Provides resources and training for enhancing cybersecurity awareness.
