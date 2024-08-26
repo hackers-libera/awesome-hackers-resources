@@ -46,9 +46,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [SecTools.org](https://sectools.org/). Provides a comprehensive list of security tools used in penetration testing.
 - [Cybersecurity Lab](https://www.cybersecuritylab.org/). Interactive labs and challenges for learning cybersecurity.
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
-- [VulnHub VMs](https://www.vulnhub.com/). A collection of vulnerable virtual machines for practice.
-- [Pragmatic Security](https://pragmaticsecurity.io/). Offers practical cybersecurity training and resources.
-- [CTF-Games](https://ctf-games.com/). A collection of games and challenges to improve hacking skills.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
 - [Hack The Box Academy](https://academy.hackthebox.com/). Structured learning paths with hands-on practice.
 - [HackerHouse](https://hacker.house/). Provides security training and resources for various skill levels.
