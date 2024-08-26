@@ -77,7 +77,7 @@ A list of hacking resources wouldn't be complete without a link to
 ### Linux
 - [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). A tool to suggest exploits based on Linux kernel versions.
 - [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). A blog series on exploiting Linux kernels.
-- [Linux Privilege Escalation](hhttps://book.hacktricks.xyz/linux-hardening/privilege-escalation). A comprehensive guide to Linux privilege escalation techniques.
+- [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation). A comprehensive guide to Linux privilege escalation techniques.
 
 ### Web
 - [Checkpoint's Web Hacking Training](https://www.checkpoint.com/resources/items/hacking-points-advanced-web-hacking-course?w=c778b). Checkpoint has good web hacking related training offerings.
