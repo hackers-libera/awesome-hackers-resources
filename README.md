@@ -47,8 +47,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [Corelan.be](https://www.corelan.be/index.php/articles/). Corelan offers well-regarded articles and paid training bootcamps on exploit writing.
 - [Hacker House](https://www.hacker.house/). Resources and training for various levels of security expertise.
 - [Tenable](https://www.tenable.com/). Vulnerability management and security training resources.
-- [CISSP Training](https://www.isc2.org/Training/Self-Study-Resources). Resources for CISSP certification preparation.
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/). Official training and certification for ethical hacking.
+
 
 ### Windows
 
@@ -57,7 +56,6 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 
 ### Linux
 
-- [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). Tool to suggest exploits based on Linux kernel versions.
 - [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). Blog series on exploiting Linux kernels.
 - [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation). Comprehensive guide to Linux privilege escalation techniques.
 
