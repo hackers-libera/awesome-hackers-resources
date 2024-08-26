@@ -51,6 +51,7 @@ A list of hacking resources wouldn't be complete without a link to
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [PentesterLab Pro](https://pentesterlab.com/pro). Advanced web hacking and security training.
 - [Security Onion](https://securityonion.net/). Free and open-source Linux distribution for intrusion detection and network security monitoring.
+- [Nviso Blog](https://blog.nviso.eu/). Cyber security research, straight from the lab.
 
 ## Training (not hands-on)
 
@@ -75,7 +76,7 @@ A list of hacking resources wouldn't be complete without a link to
 
 ### Linux
 - [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). A tool to suggest exploits based on Linux kernel versions.
-- [Linux Kernel Exploitation](https://www.nviso.be/en/blog/2020/03/06/linux-kernel-exploitation/). A blog series on exploiting Linux kernels.
+- [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). A blog series on exploiting Linux kernels.
 - [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation). A comprehensive guide to Linux privilege escalation techniques.
 
 ### Web
