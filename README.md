@@ -33,7 +33,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [SANS Cyber Aces](https://www.cyberaces.org/). Free introductory courses in cybersecurity fundamentals.
 - [CTF Time](https://ctftime.org/). Aggregates information about Capture The Flag (CTF) competitions around the world.
 - [CTF Writeups](https://ctf-wiki.org/en/). A repository of write-ups for various Capture The Flag challenges.
-- [VulnHub Challenges](https://www.vulnhub.com/). Provides various vulnerable machines for testing and practice.
 - [Infosec Skills](https://www.infosecinstitute.com/skills/). Cybersecurity training with hands-on labs and exercises.
 - [Pentester Academy](https://www.pentesteracademy.com/). Offers online courses and labs for penetration testing and security.
 - [CyberRange](https://www.cyberrange.org/). Online platform for practicing cybersecurity skills in a simulated environment.
