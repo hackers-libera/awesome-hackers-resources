@@ -64,7 +64,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [Tenable](https://www.tenable.com/). Provides vulnerability management and security training resources.
 - [SANS Cybersecurity Resources](https://www.sans.org/). A comprehensive source of cybersecurity training and resources.
 - [CISSP Training](https://www.isc2.org/Training/Self-Study-Resources). Provides resources for CISSP certification preparation.
-- [ISEE Labs](https://www.iseelabs.com/). Offers online labs and training in various cybersecurity domains.
 - [eLearnSecurity Training](https://www.elearnsecurity.com/). Provides training and certifications for ethical hacking and penetration testing.
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/). Official training and certification for ethical hacking.
 
