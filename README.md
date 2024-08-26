@@ -35,7 +35,7 @@ A list of hacking resources wouldn't be complete without a link to
 - [CTF Writeups](https://ctf-wiki.org/en/). A repository of write-ups for various Capture The Flag challenges.
 - [Infosec Skills](https://www.infosecinstitute.com/skills/). Cybersecurity training with hands-on labs and exercises.
 - [Pentester Academy](https://www.pentesteracademy.com/). Offers online courses and labs for penetration testing and security.
-- [CyberRange](https://www.cyberrange.org/). Online platform for practicing cybersecurity skills in a simulated environment.
+- [CyberRanges](https://www.cyberranges.com/). World-Class Cybersecurity Training Exercises and Capability Development using a Next-Generation Technology and Service Platform for the Design, Delivery and Management of Simulation-Based, Deep-Dive, Cybersecurity Experiences.
 - [Hack The Box Academy](https://academy.hackthebox.com/). Educational platform by Hack The Box with structured learning paths.
 - [Cobalt Strike](https://www.cobaltstrike.com/). Provides a range of offensive security tools and training resources.
 - [SANS Institute](https://www.sans.org/). Offers a wide range of cybersecurity training and certification.
