@@ -29,7 +29,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [Offensive Security](https://www.offsec.com/courses-and-certifications/). Offers realistic certifications and training, mostly focused around offensive security techniques and skill development.
 - [Ret2 Wargames](https://wargames.ret2.systems/). Lab-based software exploitation training.
 - [VulnHub](https://www.vulnhub.com/). A collection of vulnerable applications to practice penetration testing.
-- [CyberSecLabs](https://cyberseclabs.co.uk/). Offers a range of virtual labs for penetration testing practice.
 - [HackInTheBox](https://www.hackinthebox.org/). Provides various security training resources and challenges.
 - [SANS Cyber Aces](https://www.cyberaces.org/). Free introductory courses in cybersecurity fundamentals.
 - [CTF Time](https://ctftime.org/). Aggregates information about Capture The Flag (CTF) competitions around the world.
