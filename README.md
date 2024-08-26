@@ -93,8 +93,8 @@ A list of hacking resources wouldn't be complete without a link to
 ### Other
 - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101). Fuzz testing course.
 - [VX Underground](https://github.com/vxunderground). Papers, source, and resources on malware.
-- [Reverse Engineering 101](https://github.com/kr1zzy/Reverse-Engineering-101). A comprehensive guide to reverse engineering techniques and tools.
-- [Malware Analysis Tools](https://github.com/avast/awesome-malware-analysis). A curated list of malware analysis tools and resources.
+- [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0). A comprehensive guide to reverse engineering techniques and tools.
+- [Malware Analysis Tools](https://expertinsights.com/insights/the-top-malware-analysis-tools/). A curated list of malware analysis tools and resources.
 
 ## Media / content creators
 
