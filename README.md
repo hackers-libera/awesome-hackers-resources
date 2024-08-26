@@ -107,7 +107,7 @@ A list of hacking resources wouldn't be complete without a link to
 - [Windows Internals](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/). Windows Internals: System architecture, processes, threads, memory management, and more.
 - [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441). Comprehensive guide to hacking techniques and tools.
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Defending/dp/1118026470/). A detailed guide on web application security and hacking techniques.
-- [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272906/). Hands-on guide to malware analysis and reverse engineering.
+- [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901). Hands-on guide to malware analysis and reverse engineering.
 
 ## Magazines
 
