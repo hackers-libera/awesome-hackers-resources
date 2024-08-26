@@ -87,7 +87,7 @@ A list of hacking resources wouldn't be complete without a link to
 - [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/). Comprehensive guide on web security testing methodologies.
 
 ### MacOS
-- [MacOS Security Research](https://www.fritz.ai/blog/2018/12/12/understanding-macos-security/). Research and articles on macOS security.
+- [MacOS Security Research](https://github.com/0xmachos/macOS-Security-Research). Research and articles on macOS security.
 - [MacOS Exploitation Techniques](https://www.exploit-db.com/exploits?platform=mac). Exploits and techniques for macOS.
 
 ### Other
