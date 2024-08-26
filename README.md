@@ -41,7 +41,7 @@ A list of hacking resources wouldn't be complete without a link to
 - [SANS Institute](https://www.sans.org/). Offers a wide range of cybersecurity training and certification.
 - [eLearnSecurity](https://www.elearnsecurity.com/). Offers a variety of cybersecurity training courses and certifications.
 - [Red Team Village](https://redteamvillage.io/). Provides resources and training for red teaming and offensive security.
-- [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project). A virtual machine with various vulnerable applications for practice.
+- [OWASP](https://owasp.org/). A virtual machine with various vulnerable applications for practice.
 - [Hacking Lab](https://www.hacking-lab.com/). Offers a range of online labs and challenges for cybersecurity practice.
 - [SecTools.org](https://sectools.org/). Provides a comprehensive list of security tools used in penetration testing.
 - [Cybersecurity Lab](https://www.cybersecuritylab.org/). Interactive labs and challenges for learning cybersecurity.
