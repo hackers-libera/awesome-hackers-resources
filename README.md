@@ -46,7 +46,6 @@ A list of hacking resources wouldn't be complete without a link to
 - [SecTools.org](https://sectools.org/). Provides a comprehensive list of security tools used in penetration testing.
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
-- [SecurityTube](http://www.securitytube.net/). A platform for security-related video content and tutorials.
 - [HackTheBox Labs](https://www.hackthebox.com/hacker/hacking-labs). A collection of labs and challenges for practicing penetration testing.
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [PentesterLab Pro](https://pentesterlab.com/pro). Advanced web hacking and security training.
