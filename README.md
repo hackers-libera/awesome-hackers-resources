@@ -1,44 +1,31 @@
-# [#hackers](https://web.libera.chat/#hackers) resources
+# [#hackers](https://web.libera.chat/#hackers) Resources
 
-A list of hacking resources wouldn't be complete without a link to
-[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking).
+A list of hacking resources wouldn't be complete without a link to [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking).
 
-## Hands-on learning
+## Hands-on Learning
 
-- [TryHackMe](https://tryhackme.com/). Well-known beginner-friendly
-  cybersecurity training platform.
-- [Portswigger Web Security Academy](https://portswigger.net/web-security).
-  Free, online web security training from the creators of Burp Suite.
-- [Hacker101 CTF](https://ctf.hacker101.com/). Capture The Flag (CTF)
-  run by HackerOne.
-- [YesWeHack - Dojo](https://dojo-yeswehack.com/). Monthly CTF-type challenges
-  for web applications.
-- [Overthewire Wargames](https://overthewire.org/wargames/). Variety of
-  wargames that teach hacking.
-- [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally
-  insecure web application created by OWASP.
-- [Pwn College](https://pwn.college/). A free online platform for students and hackers to practice core
-  cybersecurity concepts and skills. It offers dojos, courses, belts,
-  badges, and a community to help you master the art of hacking.
+- [TryHackMe](https://tryhackme.com/). Well-known beginner-friendly cybersecurity training platform.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security). Free, online web security training from the creators of Burp Suite.
+- [Hacker101 CTF](https://ctf.hacker101.com/). Capture The Flag (CTF) run by HackerOne.
+- [YesWeHack - Dojo](https://dojo-yeswehack.com/). Monthly CTF-type challenges for web applications.
+- [OverTheWire Wargames](https://overthewire.org/wargames/). Variety of wargames that teach hacking.
+- [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally insecure web application created by OWASP.
+- [Pwn College](https://pwn.college/). Free online platform for students and hackers to practice core cybersecurity concepts and skills.
 - [Hack The Box](https://www.hackthebox.com/). Learn how to hack from beginner to advanced levels with courses, labs, and competitions.
-- [Proving Grounds](https://www.offsec.com/labs/). OffSec Proving Grounds (PG) Play and Practice is a modern network for
-  practicing penetration testing skills on exploitable, real-world
-  vectors. With PG Play, learners will receive three daily hours of free, dedicated access to the VulnHub community-generated Linux machines.
+- [Proving Grounds](https://www.offsec.com/labs/). OffSec Proving Grounds offers a modern network for practicing penetration testing skills on real-world vectors.
 - [Altered Security](https://www.alteredsecurity.com/trainings). Windows, Active Directory, and Azure AD-focused hands-on offensive security training.
-- [Pentester Lab](https://pentesterlab.com/exercises). Web hacking and security review-focused training courses and exercises.
-- [Offensive Security](https://www.offsec.com/courses-and-certifications/). Offers realistic certifications and training, mostly focused around offensive security techniques and skill development.
+- [PentesterLab](https://pentesterlab.com/). Web hacking and security review-focused training courses and exercises.
+- [Offensive Security](https://www.offsec.com/courses-and-certifications/). Offers realistic certifications and training focused on offensive security techniques.
 - [Ret2 Wargames](https://wargames.ret2.systems/). Lab-based software exploitation training.
-- [VulnHub](https://www.vulnhub.com/). A collection of vulnerable applications to practice penetration testing.
+- [VulnHub](https://www.vulnhub.com/). Collection of vulnerable applications to practice penetration testing.
 - [HackInTheBox](https://www.hackinthebox.org/). Provides various security training resources and challenges.
 - [SANS Cyber Aces](https://www.cyberaces.org/). Free introductory courses in cybersecurity fundamentals.
-- [CTF Time](https://ctftime.org/). Aggregates information about Capture The Flag (CTF) competitions around the world.
-- [CTF Writeups](https://ctf-wiki.org/en/). A repository of write-ups for various Capture The Flag challenges.
+- [CTF Time](https://ctftime.org/). Aggregates information about Capture The Flag (CTF) competitions worldwide.
+- [CTF Writeups](https://ctf-wiki.org/en/). Repository of write-ups for various Capture The Flag challenges.
 - [Infosec Skills](https://www.infosecinstitute.com/skills/). Cybersecurity training with hands-on labs and exercises.
 - [Pentester Academy](https://www.pentesteracademy.com/). Offers online courses and labs for penetration testing and security.
-- [CyberRanges](https://www.cyberranges.com/). World-Class Cybersecurity Training Exercises and Capability Development using a Next-Generation Technology and Service Platform for the Design, Delivery and Management of Simulation-Based, Deep-Dive, Cybersecurity Experiences.
-- [Hack The Box Academy](https://academy.hackthebox.com/). Educational platform by Hack The Box with structured learning paths.
+- [CyberRanges](https://www.cyberranges.com/). World-class cybersecurity training exercises and capability development platform.
 - [Cobalt Strike](https://www.cobaltstrike.com/). Provides a range of offensive security tools and training resources.
-- [SANS Institute](https://www.sans.org/). Offers a wide range of cybersecurity training and certification.
 - [eLearnSecurity](https://www.elearnsecurity.com/). Offers a variety of cybersecurity training courses and certifications.
 - [Red Team Village](https://redteamvillage.io/). Provides resources and training for red teaming and offensive security.
 - [OWASP](https://owasp.org/). A virtual machine with various vulnerable applications for practice.
@@ -46,58 +33,56 @@ A list of hacking resources wouldn't be complete without a link to
 - [SecTools.org](https://sectools.org/). Provides a comprehensive list of security tools used in penetration testing.
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
-- [HackTheBox Labs](https://www.hackthebox.com/hacker/hacking-labs). A collection of labs and challenges for practicing penetration testing.
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
-- [PentesterLab Pro](https://pentesterlab.com/pro). Advanced web hacking and security training.
 - [Security Onion](https://securityonion.net/). Free and open-source Linux distribution for intrusion detection and network security monitoring.
-- [Nviso Blog](https://blog.nviso.eu/). Cyber security research, straight from the lab.
+- [Nviso Blog](https://blog.nviso.eu/). Cybersecurity research, straight from the lab.
 
-## Training (not hands-on)
+## Training (Not Hands-On)
 
 ### General
-- [Opensecurity training](https://opensecuritytraining.info/Welcome.html). OpenSecurityTraining.info is dedicated to sharing training material for
-  computer security classes, on any topic, that are at least one day long.
-- [Opensecurity training 2](https://p.ost2.fyi/courses). A relaunch of Open Security training with updated materials.
-- [OALabs](https://www.openanalysis.net/). Open Analysis Labs, lots of good malware reversing videos and training.
-- [Corelan.be](https://www.corelan.be/index.php/articles/). Corelan has really great articles and paid training bootcamps. They're well regarded in their exploit writing tutorial articles.
-- [Hacker House](https://www.hacker.house/). Offers resources and training for various levels of security expertise.
-- [Tenable](https://www.tenable.com/). Provides vulnerability management and security training resources.
-- [SANS Cybersecurity Resources](https://www.sans.org/). A comprehensive source of cybersecurity training and resources.
-- [CISSP Training](https://www.isc2.org/Training/Self-Study-Resources). Provides resources for CISSP certification preparation.
-- [eLearnSecurity Training](https://www.elearnsecurity.com/). Provides training and certifications for ethical hacking and penetration testing.
+
+- [OpenSecurity Training](https://opensecuritytraining.info/Welcome.html). OpenSecurityTraining.info offers free training material for computer security classes.
+- [OpenSecurity Training 2](https://p.ost2.fyi/courses). Relaunch of OpenSecurityTraining with updated materials.
+- [OALabs](https://www.openanalysis.net/). Open Analysis Labs provide malware reversing videos and training.
+- [Corelan.be](https://www.corelan.be/index.php/articles/). Corelan offers well-regarded articles and paid training bootcamps on exploit writing.
+- [Hacker House](https://www.hacker.house/). Resources and training for various levels of security expertise.
+- [Tenable](https://www.tenable.com/). Vulnerability management and security training resources.
+- [CISSP Training](https://www.isc2.org/Training/Self-Study-Resources). Resources for CISSP certification preparation.
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/). Official training and certification for ethical hacking.
 
 ### Windows
-- [Code Machine](https://www.codemachine.com/training.html). CodeMachine offers the most
-  comprehensive training in the industry for all things related to
-  Windows security.
+
+- [Code Machine](https://www.codemachine.com/training.html). Comprehensive training on Windows security.
 - [Maldev Academy](https://maldevacademy.com/). Windows-focused malware development courses.
 
 ### Linux
-- [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). A tool to suggest exploits based on Linux kernel versions.
-- [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). A blog series on exploiting Linux kernels.
-- [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation). A comprehensive guide to Linux privilege escalation techniques.
+
+- [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester). Tool to suggest exploits based on Linux kernel versions.
+- [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). Blog series on exploiting Linux kernels.
+- [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation). Comprehensive guide to Linux privilege escalation techniques.
 
 ### Web
-- [Checkpoint's Web Hacking Training](https://www.checkpoint.com/resources/items/hacking-points-advanced-web-hacking-course?w=c778b). Checkpoint has good web hacking related training offerings.
-- [Websites Vulnerable to SSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI/tree/master). This project has very simple websites to learn how to exploit Server Side Template Injections (SSTI).
+
+- [Checkpoint's Web Hacking Training](https://www.checkpoint.com/resources/items/hacking-points-advanced-web-hacking-course?w=c778b). Web hacking training offerings from Checkpoint.
+- [Websites Vulnerable to SSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI/tree/master). Simple websites to learn how to exploit Server-Side Template Injections (SSTI).
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/). Collection of cheat sheets on web security practices.
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security). Free training on web application security by the creators of Burp Suite.
 - [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/). Comprehensive guide on web security testing methodologies.
 
 ### MacOS
+
 - [MacOS Security Research](https://github.com/0xmachos/macOS-Security-Research). Research and articles on macOS security.
 - [MacOS Exploitation Techniques](https://www.exploit-db.com/exploits?platform=mac). Exploits and techniques for macOS.
 
 ### Other
+
 - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101). Fuzz testing course.
 - [VX Underground](https://github.com/vxunderground). Papers, source, and resources on malware.
-- [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0). A comprehensive guide to reverse engineering techniques and tools.
-- [Malware Analysis Tools](https://expertinsights.com/insights/the-top-malware-analysis-tools/). A curated list of malware analysis tools and resources.
+- [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0). Comprehensive guide to reverse engineering techniques and tools.
+- [Malware Analysis Tools](https://expertinsights.com/insights/the-top-malware-analysis-tools/). Curated list of malware analysis tools and resources.
 
-## Media / content creators
+## Media / Content Creators
 
-- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw). Educational cybersecurity content creator with a focus on bug bounty and web application security.
+- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw). Educational cybersecurity content focused on bug bounty and web application security.
 - [SecurityTube](http://www.securitytube.net/). Video content and tutorials on various cybersecurity topics.
 - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor). YouTube channel offering practical cybersecurity tutorials and CTF walkthroughs.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow). YouTube channel focused on computer security and hacking.
@@ -106,12 +91,11 @@ A list of hacking resources wouldn't be complete without a link to
 
 - [Windows Internals](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/). Windows Internals: System architecture, processes, threads, memory management, and more.
 - [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441). Comprehensive guide to hacking techniques and tools.
-- [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Defending/dp/1118026470/). A detailed guide on web application security and hacking techniques.
+- [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Defending/dp/1118026470/). Detailed guide on web application security and hacking techniques.
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901). Hands-on guide to malware analysis and reverse engineering.
 
 ## Magazines
 
-- [Phrack Magazine](https://phrack.org/). Phrack is an e-zine written by and for hackers, first published November 17, 1985.
-- [2600: The Hacker Quarterly](https://2600.com/). A quarterly publication focusing on hacker culture and computer security.
-- [Hakin9](https://hakin9.org/). A magazine offering articles and tutorials on various cybersecurity topics.
-
+- [Phrack Magazine](https://phrack.org/). Phrack is an e-zine written by and for hackers, first published in 1985.
+- [2600: The Hacker Quarterly](https://2600.com/). Quarterly publication focusing on hacker culture and computer security.
+- [Hakin9](https://hakin9.org/). Magazine offering articles and tutorials on various cybersecurity topics.
