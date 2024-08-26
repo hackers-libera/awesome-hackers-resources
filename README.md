@@ -47,15 +47,9 @@ A list of hacking resources wouldn't be complete without a link to
 - [Cybersecurity Lab](https://www.cybersecuritylab.org/). Interactive labs and challenges for learning cybersecurity.
 - [Exploit-DB](https://www.exploit-db.com/). A comprehensive archive of exploits and vulnerabilities.
 - [Hacking Articles](https://www.hackingarticles.in/). Provides tutorials and articles on various cybersecurity topics.
-- [HackerHouse](https://hacker.house/). Provides security training and resources for various skill levels.
-- [HackerOne](https://www.hackerone.com/). Offers a platform for bug bounty programs and training resources.
-- [Cybersecurity Awareness Hub](https://www.cybersecurityawarenesshub.com/). Provides resources and training for enhancing cybersecurity awareness.
-- [SecurityTube](https://www.securitytube.net/). A platform for security-related video content and tutorials.
-- [VulnHub Resources](https://www.vulnhub.com/resources). Provides links to vulnerable machines and other resources for practice.
-- [Hack.ers](https://hack.ers.io/). A community and resource hub for cybersecurity enthusiasts.
-- [Hacking Lab](https://www.hacking-lab.com/). Offers virtual labs and challenges for practicing hacking skills.
+- [SecurityTube](http://www.securitytube.net/). A platform for security-related video content and tutorials.
 - [Infosec](https://www.infosec.com/). Provides training and resources for various aspects of cybersecurity.
-- [HackTheBox Labs](https://www.hackthebox.com/labs). A collection of labs and challenges for practicing penetration testing.
+- [HackTheBox Labs](https://www.hackthebox.com/hacker/hacking-labs). A collection of labs and challenges for practicing penetration testing.
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [PentesterLab Pro](https://pentesterlab.com/pro). Advanced web hacking and security training.
 - [Practical Pentest Labs](https://practicalpentestlabs.com/). Provides hands-on penetration testing labs and challenges.
