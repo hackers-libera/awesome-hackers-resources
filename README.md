@@ -91,6 +91,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441). Comprehensive guide to hacking techniques and tools.
 - [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Defending/dp/1118026470/). Detailed guide on web application security and hacking techniques.
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901). Hands-on guide to malware analysis and reverse engineering.
+- [The Fuzzing Book](https://www.fuzzingbook.org/) A nice detailed book on fuzzing and software testing.
 
 ## Magazines
 
