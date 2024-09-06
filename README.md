@@ -12,6 +12,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [Juice Shop](https://github.com/juice-shop/juice-shop). Intentionally insecure web application created by OWASP.
 - [Pwn College](https://pwn.college/). Free online platform for students and hackers to practice core cybersecurity concepts and skills.
 - [Hack The Box](https://www.hackthebox.com/). Learn how to hack from beginner to advanced levels with courses, labs, and competitions.
+     - [Penetration Tester Path](https://academy.hackthebox.com/path/preview/penetration-tester) HackTheBox offers the "penetration tester path" which is probably the most comprehensive pentesting training path out there, which leads up to the CPTS certification.
 - [Proving Grounds](https://www.offsec.com/labs/). OffSec Proving Grounds offers a modern network for practicing penetration testing skills on real-world vectors.
 - [Altered Security](https://www.alteredsecurity.com/trainings). Windows, Active Directory, and Azure AD-focused hands-on offensive security training.
 - [PentesterLab](https://pentesterlab.com/). Web hacking and security review-focused training courses and exercises.
