@@ -66,6 +66,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [Websites Vulnerable to SSTI](https://github.com/DiogoMRSilva/websitesVulnerableToSSTI/tree/master). Simple websites to learn how to exploit Server-Side Template Injections (SSTI).
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/). Collection of cheat sheets on web security practices.
 - [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/). Comprehensive guide on web security testing methodologies.
+- [CS 253 Web Security](https://web.stanford.edu/class/cs253/) Stanford's CS 253 course on web security
 
 ### MacOS
 
