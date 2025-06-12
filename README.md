@@ -37,7 +37,8 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 - [CTF Learn](https://ctflearn.com/). Offers a range of Capture The Flag challenges for practice.
 - [Security Onion](https://securityonion.net/). Free and open-source Linux distribution for intrusion detection and network security monitoring.
 - [Nviso Blog](https://blog.nviso.eu/). Cybersecurity research, straight from the lab.
-
+- [How2Heap](https://github.com/shellphish/how2heap) Heap exploitation labs focused on Glibc
+  
 ## Training (Not Hands-On)
 
 ### General
