@@ -59,7 +59,7 @@ A list of hacking resources wouldn't be complete without a link to [Awesome-Hack
 ### Linux
 
 - [Linux Kernel Exploitation](https://sam4k.com/kernel-exploitation/). Blog series on exploiting Linux kernels.
-- [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/privilege-escalation). Comprehensive guide to Linux privilege escalation techniques.
+- [Linux Privilege Escalation](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html). Comprehensive guide to Linux privilege escalation techniques.
 
 ### Web
 
